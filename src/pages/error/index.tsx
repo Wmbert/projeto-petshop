@@ -15,7 +15,7 @@ export function ErrorPage(){
                 className="mt-4 px-6 py-2 rounded font-bold bg-white"
                 to="/"
             >
-                Voltar para home
+                Voltar para inicio
             </Link>
         </main>
     )
